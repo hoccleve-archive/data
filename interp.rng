@@ -1,0 +1,22 @@
+<element name="spanGrp" xmlns="http://relaxng.org/ns/structure/1.0">
+    <attribute name="type" />
+    <oneOrMore>
+        <element name="span">
+            <attribute name="type" />
+            <choice>
+                <attribute name="target" />
+                <attribute name="from" />
+                <group>
+                    <attribute name="from" />
+                    <attribute name="to" />
+                </group>
+            </choice>
+            <optional>
+                <element name="note">
+                    <text />
+                </element>
+            </optional>
+            <text/>
+        </element>
+    </oneOrMore>
+</element>
