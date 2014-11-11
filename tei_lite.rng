@@ -1548,6 +1548,8 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="index"/>
          <ref name="interp"/>
          <ref name="interpGrp"/>
+         <ref name="span"/>
+         <ref name="spanGrp"/>
       </choice>
    </define>
    <define name="model.milestoneLike">
@@ -4277,6 +4279,47 @@ Sample values include: 1] text; 2] corpus</a:documentation>
            <ref name="att.global.attributes"/>
            <ref name="att.typed.attributes"/>
            <empty/>
+       </element>
+   </define>
+   <define name="spanGrp">
+       <element name="spanGrp">
+           <!--<ref name="att.global.attributes"/>-->
+           <!--<ref name="att.global.linking.attributes"/>-->
+           <!--<ref name="att.global.analytic.attributes"/>-->
+           <!--<ref name="att.global.facs.attributes"/>-->
+           <!--<ref name="att.global.change.attributes"/>-->
+           <ref name="att.interpLike.attributes"/>
+           <!--<ref name="att.responsibility.attributes"/>-->
+           <!--<ref name="att.source.attributes"/>-->
+           <zeroOrMore>
+               <ref name="span"/>
+           </zeroOrMore>
+           <empty/>
+       </element>
+   </define>
+   <define name="span">
+       <element name="span">
+           <!--<ref name="att.global.attributes"/>-->
+           <ref name="att.global.linking.attributes"/>
+           <!--<ref name="att.global.analytic.attributes"/>-->
+           <!--<ref name="att.global.facs.attributes"/>-->
+           <!--<ref name="att.global.change.attributes"/>-->
+           <ref name="att.interpLike.attributes"/>
+           <!--<ref name="att.responsibility.attributes"/>-->
+           <!--<ref name="att.source.attributes"/>-->
+           <ref name="att.pointing.attributes"/>
+           <optional>
+               <attribute name="from">
+                   <ref name="data.pointer"/>
+               </attribute>
+           </optional>
+           <optional>
+               <attribute name="to">
+                   <ref name="data.pointer"/>
+               </attribute>
+           </optional>
+           <empty/>
+           <ref name="macro.phraseSeq.limited"/>
        </element>
    </define>
    <define name="byline">
