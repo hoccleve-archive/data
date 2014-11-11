@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Regiment of Princes</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Encoded by Mark Watts</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    This document was composed from the text
+                    at http://d.lib.rochester.edu/teams/text/blyth-hoccleve-regiment-of-princes
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+    <body>
+        <head>Regiment of Princes</head>
+        <div type="poem">
+            <lg>
+                <l>Musynge upon the restlees bysynesse</l>
+                <l>Which that this troubly world hath ay on honde,</l>
+                <l>That othir thyng than fruyt of bittirnesse</l>
+                <l>Ne yildith naght, as I can undirstonde,</l>
+                <l>At Chestres In, right faste by the Stronde,</l>
+                <l>As I lay in my bed upon a nyght,</l>
+                <l>Thoght me byrefte of sleep the force and might. </l>
+                <l>And many a day and nyght that wikkid hyne</l>
+                <l>Hadde beforn vexed my poore goost</l>
+                <l>So grevously that of angwissh and pyne</l>
+                <l>No rycher man was nowhere in no coost.</l>
+                <l>This dar I seyn, may no wight make his boost</l>
+                <l>That he with thoght was bet than I aqweynted,</l>
+                <l>For to the deeth he wel ny hath me feynted.</l>
+                <l>Bysyly in my mynde I gan revolve</l>
+                <l>The welthe unseur of every creature,</l>
+            </lg>
+            <trailer>Explicit</trailer>
+        </div>
+        <spanGrp type="time-referents">
+            <span target="#line-6" type="abstract-moment">Specific place (Chester Inn) and time creates narrative context of entering dream.</span>
+            <span target="#line-8" type="abstract-duration">Recollection of past duration starts to merge past and present times, acting as a descriptive tool of thought processes.</span>
+            <span target="#line-22" type="memory">Remembers Richard II’s fall, setting political time of narrative.</span>
+            <span from="#line-47" to="#line-48" type="universal-temporality">To emphasise transitory nature of secular fortune</span>
+            <span target="#line-54" type="past-authority">Authenticating strategy of narrative voice</span>
+            <span target="#line-71" type="precise-moment">Links back to opening of narrative, bringing reader into presence of the narrative moment that is a recollection</span>
+            <span target="#line-78" type="abstract-duration">Narrator’s inability to sleep, due to dream setting</span>
+            <span target="#line-96" type="subjective-units">
+                <note>of the temporal hours</note>Speech on opposites, as narrator wants solitude not joy, analogy to discordant relationship between night and day
+            </span>
+            <span from="#line-113" to="#line-114" type="time-duration-and-abstract-moment"> Narrative return to L 78, the moment after the abstract duration of the night</span>
+            <span from="#line-120" to="#line-121" type="precise-duration">Focus on precision here, sets narrative context of physical activity to begin after torturous night.</span>
+            <span from="#line-146" to="#line-147" type="age.youth">Old man generalising about young, inexperienced and seldom wise state to waking Hoccleve-narrator.</span>
+            <span from="#line-180" to="#line-181" type="duration">Hoccleve-narrator tells Old Man there is no point in wasting time until evening talking, as in too much pain.</span>
+            <span from="#line-195" to="#line-196" type="age.youth">Old Man instructs Hoccleve-narrator to do as told and not be ruled by negative attributes of youth, and then will be cured.</span>
+            <span target="#line-204" type="past-authority">Old Man cites the authority of the Bible when advocating counsel.</span>
+            <span from="#line-229" to="#line-230" type="death">Solomon’s advice in form of warning of brevity of life, about the impending end of one’s time.</span>
+            <span target="#line-242" type="duration">How the thought of death torments people in various ways. Duration and continuance conveyed here, with no satisfaction.</span>
+            <span target="#line-248" type="duration">The Old Man suffers and endures.</span>
+            <span target="#line-276" type="moment">Old Man indicates to Hoccleve-narrator that this is the propitious moment to expel such thoughts.</span>
+            <span target="#line-303" type="moment">This moment brings the closure of the narrative episode of burning of the Lollard of John Badby (which helps date the poem), which enables the commentary on the event to begin.</span>
+            <span from="#line-401" to="#line-406" type="age.old">Old Man reckons he has made good sense, and lists positives of the mind in old age (in lines 402-5), emphasising that the negatives are only in relation to the physical body.</span>
+        </spanGrp>
+        </body>
+    </text>
+</TEI>
+
