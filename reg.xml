@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    version="5.0" >
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -2035,7 +2036,7 @@
                 <l>I took corage, and whyles it was hoot,</l>
                 <l>Unto my lord the Prince thus I wroot:</l>
             </lg>
-            <head>[Words of the Compiler to the Prince] </head>
+            <label>[Words of the Compiler to the Prince] </label>
             <lg>
                 <l>Hy noble and mighty Prince excellent,</l>
                 <l>My lord the Prince, o my lord gracious,</l>
@@ -2178,7 +2179,7 @@
                 <l>So dreedful am I of myn ignorance;</l>
                 <l>The Crois of Cryst my werk speede and avance.</l>
             </lg>
-            <head>Explicit prologus, de principum regimine; incipiendo de fide observanda</head>
+            <label>Explicit prologus, de principum regimine; incipiendo de fide observanda</label>
             <lg>
                 <l>Now gracious Prince, ageyn that the corone</l>
                 <l>Honure yow with rial dignitee,</l>
@@ -2489,7 +2490,7 @@
                 <l>Purposith fully for to fare and weende,</l>
                 <l>So is our reule unthrifty and untheende.</l>
             </lg>
-            <head>De justitia</head>
+            <label>De justitia</label>
             <lg>
                 <l>Seint Anselm seith, justice is libertee</l>
                 <l>Of wil, gevynge unto every wight</l>
@@ -3024,7 +3025,7 @@
                 <l>Shee esith many a wight that is distressid</l>
                 <l>That, nere hir help, sholde be sore oppressid.</l>
             </lg>
-            <head>[De] pietate</head>
+            <label>[De] pietate</label>
             <lg>
                 <l>Pitee nat elles is to undirstonde</l>
                 <l>But good wil inward of debonaire herte</l>
@@ -3342,7 +3343,7 @@
                 <l>Excellent Prince, have in hem good savour,</l>
                 <l>And elles al in waast is your labour.</l>
             </lg>
-            <head>De misericordia</head>
+            <label>De misericordia</label>
             <lg>
                 <l>Mercy, aftir the word of Seint Austyn,</l>
                 <l>Of herte is a verray conpassioun</l>
@@ -3492,7 +3493,7 @@
                 <l>Wreche cruel to take, and sharp vengeance,</l>
                 <l>Of that the herte of man feelith grevance.</l>
             </lg>
-            <head>De Paciencia</head>
+            <label>De Paciencia</label>
             <lg>
                 <l>Gregorie seith, pacience verray</l>
                 <l>Is of harm doon to man softe souffrance,</l>
@@ -3663,7 +3664,7 @@
                 <l>Than for the harm that the greeved hath hent;</l>
                 <l>So dooth the charitable and pacient.</l>
             </lg>
-            <head>De castitate</head>
+            <label>De castitate</label>
             <lg>
                 <l>To chastitee purpose y now to haaste,</l>
                 <l>Which covenable is and convenient</l>
@@ -3939,7 +3940,7 @@
                 <l>That we may flee swich superfluitee</l>
                 <l>And al thyng that is fo to chastitee.</l>
             </lg>
-            <head>De regis magnanimitate</head>
+            <label>De regis magnanimitate</label>
             <lg>
                 <l>Of magnanimitee now wole I trete,</l>
                 <l>That is to seyn, strong herte or greet corage</l>
@@ -4047,7 +4048,7 @@
                 <l>Of covetyse if it hir hertes cancre,</l>
                 <l>And graunte hem picche in souffissance hir ancre.</l>
             </lg>
-            <head>Quod rex non [de]bet felicitatem suam ponere in divitiis</head>
+            <label>Quod rex non [de]bet felicitatem suam ponere in divitiis</label>
             <lg>
                 <l>Now for as moche as magnanimitee</l>
                 <l>May no foot holde if that the herte of man</l>
@@ -4169,7 +4170,7 @@
                 <l>But as scriptures treten of thee, wrecche,</l>
                 <l>I touche shal - the feend thee hennes fecche!</l>
             </lg>
-            <head>De virtute largitatis et de vitio prodigalitatis</head>
+            <label>De virtute largitatis et de vitio prodigalitatis</label>
             <lg>
                 <l>Aristotle of largesse tellith this:</l>
                 <l>Who vertuously large list to be,</l>
@@ -4522,7 +4523,7 @@
                 <l>As that your soule, aftir this lyf present,</l>
                 <l>To hevene blisse up may be take and hent.</l>
             </lg>
-            <head>De vitio avaritie</head>
+            <label>De vitio avaritie</label>
             <lg>
                 <l>Now gawe to the avaricious,</l>
                 <l>To whom noon habundance may souffyse;</l>
@@ -4798,7 +4799,7 @@
                 <l>And fool largesse voidith fro yow clene,</l>
                 <l>For free largesse is a vertuous mene.</l>
             </lg>
-            <head>De regis prudentia</head>
+            <label>De regis prudentia</label>
             <lg>
                 <l>Now, gracious Prince, lyke it yow to wite</l>
                 <l>That touche I thynke of a kynges prudence</l>
@@ -4913,7 +4914,7 @@
                 <l>Aftir your worldly sceptre transitorie,</l>
                 <l>In hevene regne in perpetuel glorie.</l>
             </lg>
-            <head>De consilio habendo in omnibus factis</head>
+            <label>De consilio habendo in omnibus factis</label>
             <lg>
                 <l>Now purpose I to trete how to a kyng</l>
                 <l>It needful is to do by conseil ay,</l>
@@ -5077,7 +5078,7 @@
                 <l>And have I spoke of pees, I shal be stille.</l>
                 <l>God sende us pees, if that it be His wille.</l>
             </lg>
-            <head>De pace</head>
+            <label>De pace</label>
             <lg>
                 <l>Touche I wole heere of pees a word or two</l>
                 <l>As that scriptures maken mencioun,</l>
@@ -5500,7 +5501,7 @@
                 <l>Of hevene blisse that is endelees,</l>
                 <l>To which yow brynge the auctour of pees. Amen.</l>
             </lg>
-            <head>[Verba compilatoris ad librum]</head>
+            <label>[Verba compilatoris ad librum]</label>
             <lg>
                 <l>O litil book, who gaf thee hardynesse</l>
                 <l>Thy wordes to pronounce in the presence</l>
@@ -5527,8 +5528,7 @@
                 <l>To thee that al seist of loves fervence;</l>
                 <l>That knowith He Whom nothyng is hid fro.</l>
             </lg>
-            <w>Explicit</w>
-            <!-- No idea how to mark this -->
+            <trailer>Explicit</trailer>
         </div>
     </body>
 </text>
