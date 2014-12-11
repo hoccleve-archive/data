@@ -1,102 +1,127 @@
-<spanGrp xmlns="http://www.tei-c.org/ns/1.0" type="time-referents">
-    <span target="#line-6" type="abstract-moment">Specific place (Chester Inn) and time creates narrative context of entering dream.</span>
-    <span target="#line-8" type="abstract-duration">Recollection of past duration starts to merge past and present times, acting as a descriptive tool of thought processes.</span>
-    <span target="#line-22" type="memory">Remembers Richard II’s fall, setting political time of narrative.</span>
-    <span from="#line-47" to="#line-48" type="universal-temporality">To emphasise transitory nature of secular fortune</span>
-    <span target="#line-54" type="past-authority">Authenticating strategy of narrative voice</span>
-    <span target="#line-71" type="precise-moment">Links back to opening of narrative, bringing reader into presence of the narrative moment that is a recollection</span>
-    <span target="#line-78" type="abstract-duration">Narrator’s inability to sleep, due to dream setting</span>
-    <span target="#line-96" type="subjective-units">
-        <note>of the temporal hours</note>Speech on opposites, as narrator wants solitude not joy, analogy to discordant relationship between night and day
-    </span>
-    <span from="#line-113" to="#line-114" type="time-duration-and-abstract-moment"> Narrative return to L 78, the moment after the abstract duration of the night</span>
-    <span from="#line-120" to="#line-121" type="precise-duration">Focus on precision here, sets narrative context of physical activity to begin after torturous night.</span>
-    <span from="#line-146" to="#line-147" type="age.youth">Old man generalising about young, inexperienced and seldom wise state to waking Hoccleve-narrator.</span>
-    <span from="#line-180" to="#line-181" type="duration">Hoccleve-narrator tells Old Man there is no point in wasting time until evening talking, as in too much pain.</span>
-    <span from="#line-195" to="#line-196" type="age.youth">Old Man instructs Hoccleve-narrator to do as told and not be ruled by negative attributes of youth, and then will be cured.</span>
-    <span target="#line-204" type="past-authority">Old Man cites the authority of the Bible when advocating counsel.</span>
-    <span from="#line-229" to="#line-230" type="death">Solomon’s advice in form of warning of brevity of life, about the impending end of one’s time.</span>
-    <span target="#line-242" type="duration">How the thought of death torments people in various ways. Duration and continuance conveyed here, with no satisfaction.</span>
-    <span target="#line-248" type="duration">The Old Man suffers and endures.</span>
-    <span target="#line-276" type="moment">Old Man indicates to Hoccleve-narrator that this is the propitious moment to expel such thoughts.</span>
-    <span target="#line-303" type="moment">This moment brings the closure of the narrative episode of burning of the Lollard of John Badby (which helps date the poem), which enables the commentary on the event to begin.</span>
-    <span from="#line-401" to="#line-406" type="age.old">Old Man reckons he has made good sense, and lists positives of the mind in old age (in lines 402-5), emphasising that the negatives are only in relation to the physical body.</span>
-    <span target="#line-491" type="past-authority">Narrative linking unit</span>
-    <span target="#line-509" type="moment.abstract">Lament on evils of wasteful fashion (dress)</span>
-    <span from="#line-556" to="#line-560" type="age.young-and-old">Old Man pleading with young Hoccleve-narrator to listen, but recognising inability of youth to do so. Oppositions between the two age states listed here; with physical appearance of Old Man being presented in negative terms but emotional index of youth being condemned.</span>
-    <span from="#line-561" to="#line-595" type="age.old-age-and-then-youth">Age and death,Negatives of old age. Issue of temporality, and, in turn, temporal consciousness, increases with age. As passage progresses moves onto positives of old age – wisdom, humility in poverty etc, in contrast to the follies of youth..</span>
-    <span from="#line-596" to="#line-616" type="age.youth">Youth’s follies.</span>
-    <span target="#line-627" type="moment-in-youth.abstract">Subjective: In youth played with dice, night-time subjective and judgemental.</span>
-    <span target="#line-645" type="duration">Relative marker, used by Old Man to indicate length of time misspent in youth.</span>
-    <span target="#line-655" type="duration">Comparative marker, used by Old Man to emphasise duration he was uncommitted (no wives or girlfriends).</span>
-    <span from="#line-705" to="#line-709" type="temporality">Old Man’s lament on worldly goods, recurring theme of world’s mutability invoked.</span>
-    <span target="#line-740" type="duration">Old Man asks for repentance, time measured as space.</span>
-    <span from="#line-743" to="#line-744" type="speed-time-passing">Old Man’s closing remarks. Moved from large-scale generalisations on youth and old age to focus on the particular passing for this one individual: frames the narrative.</span>
-    <span from="#line-753" to="#line-754" type="causal-connection">Hoccleve-narrator begs Old Man to pardon him for not listening earlier. Refers and links back to previous part of the narrative.</span>
-    <span from="#line-790" to="#line-793" type="age.old">Hoccleve-narrator says he loves old age and laments he lacks any nurturing from elderly.</span>
-    <span from="#line-804" to="#line-805" type="quantified-duration">Hoccleve-narrator declares he has been at the privy seal office for 24 years. Increased precision of duration links to focus on the individual (rather than the personified abstract).</span>
-    <span from="#line-806" to="#line-807" type="duration">Old Man remarks that Hoccleve-narrator has endurance.</span>
-    <span from="#line-831" to="#line-833" type="future-and-different-time-dimensions">
-        <note>of fictional narrative and of real author</note>Query as to how Hoccleve will get paid in old age ...now time of the author rather than of the narrator, but within the narrative creating relationship between poet and prince
-    </span>
-    <span from="#line-839" to="#line-840" type="future-and-different-time-dimensions">
-        <note>of fictional narrative and of real author</note>Query as to how Hoccleve will get paid in old age ...now time of the author rather than of the narrator, but within the narrative creating relationship between poet and prince
-    </span>
-    <span from="#line-848" to="#line-850" type="temporality-of-world">Comment that when he doesn’t work he loses all. </span>
-    <span from="#line-928" to="#line-931" type="future-prediction">Feeble soldiers show Hoccleve-narrator what he may be soon. A prognostication (of sorts).</span>
-    <span from="#line-946" to="#line-948" type="age.old-abstract">Hoccleve-narrator fears he won’t get his dues when he is old.</span>
-    <span from="#line-964" to="#line-966" type="age-schemes">Hoccleve narrator contemplates on having had no struggles in youth and fears this is temporary, fears destitution in old age.</span>
-    <span from="#line-988" to="#line-989" type="duration.quantified">Duration of being a writer, or ‘artificer’ (L. 1009).</span>
-    <span from="#line-1123" to="#line-1125" type="demarcation-of-past-and-present">Old Man uses past to unfavourably compare present standards of virtues, especially virtue of poverty.</span>
-    <span from="#line-1136" to="#line-1141" type="fortune">Wheel of Fortune, mutability invoked in image of pottery making.</span>
-    <span target="#line-1274" type="moment">
-        <note>time measured as space</note>Ambrose desires at a propitious time to leave Rome and the rich are killed.
-    </span>
-    <span from="#line-1277" to="#line-1278" type="moment">
-        <note>time measured as space</note>Ambrose desires at a propitious time to leave Rome and the rich are killed.
-    </span>
-    <span target="#line-1292" type="temporal-world">Worldly life is a cherry-fair.</span>
-    <span target="#line-1311" type="named-moment.judgement-day">Richness is poverty and poverty richness, as evidenced on Judgement Day. There is repetition of the fateful day, creating an accumulative sense of impending moment.</span>
-    <span target="#line-1314" type="named-moment.judgement-day">Richness is poverty and poverty richness, as evidenced on Judgement Day. There is repetition of the fateful day, creating an accumulative sense of impending moment.</span>
-    <span target="#line-1399" type="abstract-moment">Request to allow Hoccleve-narrator to correct his past faults. Abstract reference to past creates a general or ‘universal’ narrative context (but still as determined within timescale of the individual narrator, who is serving as Everyman).</span>
-    <span from="#line-1648" to="#line-1649" type="season">Rich marry off their young for money, not love. This is presented as being out of accord with the natural world of the seasons, ie nature and the natural order.</span>
-    <span from="#line-2007" to="#line-2008" type="quantified-unit">Hoccleve and Old Man will meet soon (Old Man is always at Whitefriars at 7am). This precision in place and time follows L. 1926-7, where we assured that the greatest desire in writing is truth, not flattery.  This signifies a shift and change: the text-proper is to start. The time referent acts as a shaping device of the narrative structure.</span>
-    <span from="#line-2052" to="#line-2053" type="age-state.childishness-and-past-authority">Hoccleve-narrator names his source (as Egidius Romanus) and invokes the modesty topos, lamenting his immaturity as a writer in contrast to his past authoritative source.</span>
-    <span target="#line-2058" type="age-state.childishness-and-past-authority">Hoccleve-narrator names his source (as Egidius Romanus) and invokes the modesty topos, lamenting his immaturity as a writer in contrast to his past authoritative source.</span>
-    <span from="#line-2140" to="#line-2142" type="precise-moment">
-        <note>within narrative context of prince’s time</note>Hoccleve-narrator tells the prince the worst that his Regiment (the text-proper that is to follow) can do is give him something to pass his time at night.
-    </span>
-    <span target="#line-2171" type="abstract-past-authority">Lesson: faith must be kept by kings. It is not important who the king of the past was or when, it is that a causal link is being created between poet’s function and prince’s function.</span>
-    <span from="#line-2187" to="#line-2188" type="abstract-past-authority">Function of historicity highlighted again, at the end of this first section. It acts as a kind of narrative punctuation.</span>
-    <span from="#line-2269" to="#line-2271" type="age.negatives-of-youth-and-old-age">Roman prisoners are not worth exchanging with Carthaginian ones due to age, either too young and inexperienced or broken with old age. </span>
-    <span from="#line-2274" to="#line-2275" type="age.middle-age">Middle age, in effect, becomes the positive force.</span>
-    <span from="#line-2287" to="#line-2289" type="causal">The Englishmen do not like Regulus, who died to keep his oath. The time referent here creates a link between the tale of the past and the point on reflecting on it in the present.</span>
-    <span from="#line-2300" to="#line-2301" type="abstract-moment">Alexander once besieged Lampsacus, his old master. Day unit abstract, only needed to create a new narrative setting.</span>
-    <span target="#line-2591" type="abstract-moment">Moves from moral discussions about justice to a past example, talking of the children as hostages. Abstract day used for narrative frame.</span>
-    <span from="#line-2640" to="#line-2666" type="abstract-past-and-interplays-of-narrative-times">Frequent references such as those listed here across these 26 lines; Mixing past reporting with direct speech. Overall effect is to emphasize Hoccleve as a narrator/ reporter.</span>
-    <span from="#line-2661" to="#line-2662" type="subjective-moments">Fabricus plans to poison Porus ... ill deeds happen at night.</span>
-    <span from="#line-2731" to="#line-2732" type="abstract-date">A law was once made (precise date not significant) when the Roman consuls agreed that adulterers should lose their eyes.</span>
-    <span target="#line-2857" type="abstract-period">Time and person both abstract, as lesson is a universal one.</span>
-    <span target="#line-3004" type="abstract-date">Abstract time and identity, to reinforce universality of moral.</span>
-    <span target="#line-3250" type="abstract-moment">Abstract time and place of Alexander’s meeting in a field. Again time indicator a tool to move narrative along.</span>
-    <span from="#line-3251" to="#line-3252" type="age.old">This is not a description of Alexander’s knight, but rather a description of Alexander’s worthiness, as evidenced by how the natural negative and physical indicators of old age are protected by Alexander.</span>
-    <span target="#line-3256" type="age.old">This is not a description of Alexander’s knight, but rather a description of Alexander’s worthiness, as evidenced by how the natural negative and physical indicators of old age are protected by Alexander.</span>
-    <span target="#line-3261" type="age.old">This is not a description of Alexander’s knight, but rather a description of Alexander’s worthiness, as evidenced by how the natural negative and physical indicators of old age are protected by Alexander.</span>
-    <span target="#line-3427" type="age.youth">Pisistaris has a daughter, positive beauty of youth praised.</span>
-    <span target="#line-3557" type="sequence">2 sons wanted to kill Arispus, but the day afterwards Arispus repents.</span>
-    <span target="#line-3677" type="age.precisely-quantified">Africanus goes to Scipio when he is 24 years old for a test of his chastity.</span>
-    <span target="#line-3849" type="subjective-moment">Drunkeness caused Belshazzar his life: ill deeds happen at night-time.</span>
-    <span target="#line-4180" type="duration">Start of John of Canace’s trickery of his daughters. Time indicated as a measurement of space.</span>
-    <span from="#line-4211" to="#line-4213" type="duration.precise">A contract set up for the lending of his money: a precise time duration is the marker of the terms.</span>
-    <span target="#line-4215" type="moment">Abstract in expression but precise within narrative context, as a means to mark an alternation in setting, progressing the narrative.</span>
-    <span from="#line-4221" to="#line-4228" type="subjective-moment">Ill deeds happen at night-time. Repeated references build anticipation within the terms of the 3 day framework.</span>
-    <span target="#line-4238" type="propitious-moment">Moment of truth: light floods in.</span>
-    <span target="#line-4275" type="past">Used to locate reflections within moment of previous narrative sequence.</span>
-    <span from="#line-4313" to="#line-4314" type="duration">A decisive new stage marked by this opening marker and closing marker of duration of John Canace’s life-time.</span>
-    <span target="#line-4575" type="season">Warning that a king may destroy his subjects by avarice. The reference to seasons reinforces the temporality of worldly signifiers and riches.</span>
-    <span target="#line-4684" type="propitious-moment">Universal lesson: he who helps the unfortunate  is blessed from birth.</span>
-    <span target="#line-4767" type="prudence">Universal lesson: the omnipotence and prudence of God.</span>
-    <span from="#line-4943" to="#line-4963" type="age.youth-and-old-age">An extensive commentary on the relationships between these two states, returning us to the nature of the opening dialogues in the prologue. L. 4962-4963 especially significant ... summarizes whole approach of let age rule and youth follow.</span>
-    <span from="#line-4971" to="#line-4973" type="abstract-moment">Lessons applicable in all liturgical and secular times</span>
-    <span from="#line-5167" to="#line-5168" type="age.quantified">Duration of Christ’s life precisely quantified.</span>
-</spanGrp>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:ct="http://hocl.tk/schema/"
+    version="5.0" >
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Time Referents in The Regiment of Princes</title>
+                <author>Smyth, Karen</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Encoded by Mark Watts</p>
+                <date when="2012" />
+            </publicationStmt>
+            <sourceDesc>
+                <p>Encoded from a tab-separated-values file, from a word document using trtotei.py</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <spanGrp type='time-referents'>
+                <span ct:typeLabel='Abstract  moment' type='abstract-moment' target='#line-6' >Specific place (Chester Inn) and time creates narrative context of entering dream.</span>
+                <span ct:typeLabel='Abstract duration' type='abstract-duration' target='#line-8' >Recollection of past duration starts to merge past and present times, acting as a descriptive tool of thought processes.</span>
+                <span ct:typeLabel='Memory' type='memory' target='#line-22' >Remembers Richard II’s fall, setting political time of narrative.</span>
+                <span ct:typeLabel='Universal temporality' type='universal-temporality' from='#line-47' to='#line-48' >To emphasise transitory nature of secular fortune</span>
+                <span ct:typeLabel='Past authority' type='past-authority' target='#line-54' >Authenticating strategy of narrative voice</span>
+                <span ct:typeLabel='Precise moment' type='precise-moment' target='#line-71' >Links back to opening of narrative, bringing reader into presence of the narrative moment that is a recollection</span>
+                <span ct:typeLabel='Abstract duration' type='abstract-duration' target='#line-78' >Narrator’s inability to sleep, due to dream setting</span>
+                <span ct:typeLabel='Subjective units ' type='subjective-units' target='#line-96' >
+                    <note>of the temporal hours</note>Speech on opposites, as narrator wants solitude not joy, analogy to discordant relationship between night and day
+                </span>
+                <span ct:typeLabel='Time duration and abstract moment' type='time-duration-and-abstract-moment' from='#line-113' to='#line-114' > Narrative return to L 78, the moment after the abstract duration of the night</span>
+                <span ct:typeLabel='Precise duration' type='precise-duration' from='#line-120' to='#line-121' >Focus on precision here, sets narrative context of physical activity to begin after torturous night.</span>
+                <span ct:typeLabel='Age: youth' type='age.youth' from='#line-146' to='#line-147' >Old man generalising about young, inexperienced and seldom wise state to waking Hoccleve-narrator.</span>
+                <span ct:typeLabel='Duration' type='duration' from='#line-180' to='#line-181' >Hoccleve-narrator tells Old Man there is no point in wasting time until evening talking, as in too much pain.</span>
+                <span ct:typeLabel='Age: youth' type='age.youth' from='#line-195' to='#line-196' >Old Man instructs Hoccleve-narrator to do as told and not be ruled by negative attributes of youth, and then will be cured.</span>
+                <span ct:typeLabel='Past authority' type='past-authority' target='#line-204' >Old Man cites the authority of the Bible when advocating counsel.</span>
+                <span ct:typeLabel='Death' type='death' from='#line-229' to='#line-230' >Solomon’s advice in form of warning of brevity of life, about the impending end of one’s time.</span>
+                <span ct:typeLabel='Duration' type='duration' target='#line-242' >How the thought of death torments people in various ways. Duration and continuance conveyed here, with no satisfaction.</span>
+                <span ct:typeLabel='Duration' type='duration' target='#line-248' >The Old Man suffers and endures.</span>
+                <span ct:typeLabel='Moment' type='moment' target='#line-276' >Old Man indicates to Hoccleve-narrator that this is the propitious moment to expel such thoughts.</span>
+                <span ct:typeLabel='Moment' type='moment' target='#line-303' >This moment brings the closure of the narrative episode of burning of the Lollard of John Badby (which helps date the poem), which enables the commentary on the event to begin.</span>
+                <span ct:typeLabel='Age: old' type='age.old' from='#line-401' to='#line-406' >Old Man reckons he has made good sense, and lists positives of the mind in old age (in lines 402-5), emphasising that the negatives are only in relation to the physical body.</span>
+                <span ct:typeLabel='Past authority' type='past-authority' target='#line-491' >Narrative linking unit</span>
+                <span ct:typeLabel='Moment: abstract' type='moment.abstract' target='#line-509' >Lament on evils of wasteful fashion (dress)</span>
+                <span ct:typeLabel='Age: young and old' type='age.young-and-old' from='#line-556' to='#line-560' >Old Man pleading with young Hoccleve-narrator to listen, but recognising inability of youth to do so. Oppositions between the two age states listed here; with physical appearance of Old Man being presented in negative terms but emotional index of youth being condemned.</span>
+                <span ct:typeLabel='Age: old age and then youth' type='age.old-age-and-then-youth' from='#line-561' to='#line-595' >Age and death,Negatives of old age. Issue of temporality, and, in turn, temporal consciousness, increases with age. As passage progresses moves onto positives of old age – wisdom, humility in poverty etc, in contrast to the follies of youth..</span>
+                <span ct:typeLabel='Age: youth' type='age.youth' from='#line-596' to='#line-616' >Youth’s follies.</span>
+                <span ct:typeLabel='Moment  in youth: abstract' type='moment-in-youth.abstract' target='#line-627' >Subjective: In youth played with dice, night-time subjective and judgemental.</span>
+                <span ct:typeLabel='Duration' type='duration' target='#line-645' >Relative marker, used by Old Man to indicate length of time misspent in youth.</span>
+                <span ct:typeLabel='Duration' type='duration' target='#line-655' >Comparative marker, used by Old Man to emphasise duration he was uncommitted (no wives or girlfriends).</span>
+                <span ct:typeLabel='Temporality' type='temporality' from='#line-705' to='#line-709' >Old Man’s lament on worldly goods, recurring theme of world’s mutability invoked.</span>
+                <span ct:typeLabel='Duration' type='duration' target='#line-740' >Old Man asks for repentance, time measured as space.</span>
+                <span ct:typeLabel='Speed time passing' type='speed-time-passing' from='#line-743' to='#line-744' >Old Man’s closing remarks. Moved from large-scale generalisations on youth and old age to focus on the particular passing for this one individual: frames the narrative.</span>
+                <span ct:typeLabel='Causal connection ' type='causal-connection' from='#line-753' to='#line-754' >Hoccleve-narrator begs Old Man to pardon him for not listening earlier. Refers and links back to previous part of the narrative.</span>
+                <span ct:typeLabel='Age: old' type='age.old' from='#line-790' to='#line-793' >Hoccleve-narrator says he loves old age and laments he lacks any nurturing from elderly.</span>
+                <span ct:typeLabel='Quantified duration' type='quantified-duration' from='#line-804' to='#line-805' >Hoccleve-narrator declares he has been at the privy seal office for 24 years. Increased precision of duration links to focus on the individual (rather than the personified abstract).</span>
+                <span ct:typeLabel='Duration' type='duration' from='#line-806' to='#line-807' >Old Man remarks that Hoccleve-narrator has endurance.</span>
+                <span ct:typeLabel='Future and different time dimensions ' type='future-and-different-time-dimensions' from='#line-831' to='#line-833' >
+                    <note>of fictional narrative and of real author</note>Query as to how Hoccleve will get paid in old age ...now time of the author rather than of the narrator, but within the narrative creating relationship between poet and prince
+                </span>
+                <span ct:typeLabel='Future and different time dimensions ' type='future-and-different-time-dimensions' from='#line-839' to='#line-840' >
+                    <note>of fictional narrative and of real author</note>Query as to how Hoccleve will get paid in old age ...now time of the author rather than of the narrator, but within the narrative creating relationship between poet and prince
+                </span>
+                <span ct:typeLabel='Temporality of world' type='temporality-of-world' from='#line-848' to='#line-850' >Comment that when he doesn’t work he loses all. </span>
+                <span ct:typeLabel='Future prediction' type='future-prediction' from='#line-928' to='#line-931' >Feeble soldiers show Hoccleve-narrator what he may be soon. A prognostication (of sorts).</span>
+                <span ct:typeLabel='Age: old abstract' type='age.old-abstract' from='#line-946' to='#line-948' >Hoccleve-narrator fears he won’t get his dues when he is old.</span>
+                <span ct:typeLabel='Age schemes' type='age-schemes' from='#line-964' to='#line-966' >Hoccleve narrator contemplates on having had no struggles in youth and fears this is temporary, fears destitution in old age.</span>
+                <span ct:typeLabel='Duration: quantified' type='duration.quantified' from='#line-988' to='#line-989' >Duration of being a writer, or ‘artificer’ (L. 1009).</span>
+                <span ct:typeLabel='Demarcation of past and present' type='demarcation-of-past-and-present' from='#line-1123' to='#line-1125' >Old Man uses past to unfavourably compare present standards of virtues, especially virtue of poverty.</span>
+                <span ct:typeLabel='Fortune' type='fortune' from='#line-1136' to='#line-1141' >Wheel of Fortune, mutability invoked in image of pottery making.</span>
+                <span ct:typeLabel='Moment ' type='moment' target='#line-1274' >
+                    <note>time measured as space</note>Ambrose desires at a propitious time to leave Rome and the rich are killed.
+                </span>
+                <span ct:typeLabel='Moment ' type='moment' from='#line-1277' to='#line-1278' >
+                    <note>time measured as space</note>Ambrose desires at a propitious time to leave Rome and the rich are killed.
+                </span>
+                <span ct:typeLabel='Temporal world' type='temporal-world' target='#line-1292' >Worldly life is a cherry-fair.</span>
+                <span ct:typeLabel='Named moment: Judgement Day' type='named-moment.judgement-day' target='#line-1311' >Richness is poverty and poverty richness, as evidenced on Judgement Day. There is repetition of the fateful day, creating an accumulative sense of impending moment.</span>
+                <span ct:typeLabel='Named moment: Judgement Day' type='named-moment.judgement-day' target='#line-1314' >Richness is poverty and poverty richness, as evidenced on Judgement Day. There is repetition of the fateful day, creating an accumulative sense of impending moment.</span>
+                <span ct:typeLabel='Abstract moment' type='abstract-moment' target='#line-1399' >Request to allow Hoccleve-narrator to correct his past faults. Abstract reference to past creates a general or ‘universal’ narrative context (but still as determined within timescale of the individual narrator, who is serving as Everyman).</span>
+                <span ct:typeLabel='Season' type='season' from='#line-1648' to='#line-1649' >Rich marry off their young for money, not love. This is presented as being out of accord with the natural world of the seasons, ie nature and the natural order.</span>
+                <span ct:typeLabel='Quantified unit' type='quantified-unit' from='#line-2007' to='#line-2008' >Hoccleve and Old Man will meet soon (Old Man is always at Whitefriars at 7am). This precision in place and time follows L. 1926-7, where we assured that the greatest desire in writing is truth, not flattery.  This signifies a shift and change: the text-proper is to start. The time referent acts as a shaping device of the narrative structure.</span>
+                <span ct:typeLabel='Age state: childishness and Past authority' type='age-state.childishness-and-past-authority' from='#line-2052' to='#line-2053' >Hoccleve-narrator names his source (as Egidius Romanus) and invokes the modesty topos, lamenting his immaturity as a writer in contrast to his past authoritative source.</span>
+                <span ct:typeLabel='Age state: childishness and Past authority' type='age-state.childishness-and-past-authority' target='#line-2058' >Hoccleve-narrator names his source (as Egidius Romanus) and invokes the modesty topos, lamenting his immaturity as a writer in contrast to his past authoritative source.</span>
+                <span ct:typeLabel='Precise moment ' type='precise-moment' from='#line-2140' to='#line-2142' >
+                    <note>within narrative context of prince’s time</note>Hoccleve-narrator tells the prince the worst that his Regiment (the text-proper that is to follow) can do is give him something to pass his time at night. 
+                </span>
+                <span ct:typeLabel='Abstract past authority' type='abstract-past-authority' target='#line-2171' >Lesson: faith must be kept by kings. It is not important who the king of the past was or when, it is that a causal link is being created between poet’s function and prince’s function.</span>
+                <span ct:typeLabel='Abstract past authority' type='abstract-past-authority' from='#line-2187' to='#line-2188' >Function of historicity highlighted again, at the end of this first section. It acts as a kind of narrative punctuation.</span>
+                <span ct:typeLabel='Age: negatives of youth and old age' type='age.negatives-of-youth-and-old-age' from='#line-2269' to='#line-2271' >Roman prisoners are not worth exchanging with Carthaginian ones due to age, either too young and inexperienced or broken with old age. </span>
+                <span ct:typeLabel='Age: middle age' type='age.middle-age' from='#line-2274' to='#line-2275' >Middle age, in effect, becomes the positive force.</span>
+                <span ct:typeLabel='Causal' type='causal' from='#line-2287' to='#line-2289' >The Englishmen do not like Regulus, who died to keep his oath. The time referent here creates a link between the tale of the past and the point on reflecting on it in the present.</span>
+                <span ct:typeLabel='Abstract moment' type='abstract-moment' from='#line-2300' to='#line-2301' >Alexander once besieged Lampsacus, his old master. Day unit abstract, only needed to create a new narrative setting.</span>
+                <span ct:typeLabel='Abstract moment' type='abstract-moment' target='#line-2591' >Moves from moral discussions about justice to a past example, talking of the children as hostages. Abstract day used for narrative frame.</span>
+                <span ct:typeLabel='Abstract past and interplays of narrative times' type='abstract-past-and-interplays-of-narrative-times' from='#line-2640' to='#line-2666' >Frequent references such as those listed here across these 26 lines; Mixing past reporting with direct speech. Overall effect is to emphasize Hoccleve as a narrator/ reporter.</span>
+                <span ct:typeLabel='Subjective moments' type='subjective-moments' from='#line-2661' to='#line-2662' >Fabricus plans to poison Porus ... ill deeds happen at night.</span>
+                <span ct:typeLabel='Abstract date' type='abstract-date' from='#line-2731' to='#line-2732' >A law was once made (precise date not significant) when the Roman consuls agreed that adulterers should lose their eyes.</span>
+                <span ct:typeLabel='Abstract period' type='abstract-period' target='#line-2857' >Time and person both abstract, as lesson is a universal one.</span>
+                <span ct:typeLabel='Abstract date' type='abstract-date' target='#line-3004' >Abstract time and identity, to reinforce universality of moral.</span>
+                <span ct:typeLabel='Abstract moment' type='abstract-moment' target='#line-3250' >Abstract time and place of Alexander’s meeting in a field. Again time indicator a tool to move narrative along.</span>
+                <span ct:typeLabel='Age: old' type='age.old' from='#line-3251' to='#line-3252' >This is not a description of Alexander’s knight, but rather a description of Alexander’s worthiness, as evidenced by how the natural negative and physical indicators of old age are protected by Alexander.</span>
+                <span ct:typeLabel='Age: old' type='age.old' target='#line-3256' >This is not a description of Alexander’s knight, but rather a description of Alexander’s worthiness, as evidenced by how the natural negative and physical indicators of old age are protected by Alexander.</span>
+                <span ct:typeLabel='Age: old' type='age.old' target='#line-3261' >This is not a description of Alexander’s knight, but rather a description of Alexander’s worthiness, as evidenced by how the natural negative and physical indicators of old age are protected by Alexander.</span>
+                <span ct:typeLabel='Age: youth' type='age.youth' target='#line-3427' >Pisistaris has a daughter, positive beauty of youth praised.</span>
+                <span ct:typeLabel='Sequence' type='sequence' target='#line-3557' >2 sons wanted to kill Arispus, but the day afterwards Arispus repents.</span>
+                <span ct:typeLabel='Age: precisely quantified' type='age.precisely-quantified' target='#line-3677' >Africanus goes to Scipio when he is 24 years old for a test of his chastity.</span>
+                <span ct:typeLabel='Subjective moment' type='subjective-moment' target='#line-3849' >Drunkeness caused Belshazzar his life: ill deeds happen at night-time.</span>
+                <span ct:typeLabel='Duration' type='duration' target='#line-4180' >Start of John of Canace’s trickery of his daughters. Time indicated as a measurement of space.</span>
+                <span ct:typeLabel='Duration: precise' type='duration.precise' from='#line-4211' to='#line-4213' >A contract set up for the lending of his money: a precise time duration is the marker of the terms.</span>
+                <span ct:typeLabel='Moment' type='moment' target='#line-4215' >Abstract in expression but precise within narrative context, as a means to mark an alternation in setting, progressing the narrative.</span>
+                <span ct:typeLabel='Subjective moment' type='subjective-moment' from='#line-4221' to='#line-4228' >Ill deeds happen at night-time. Repeated references build anticipation within the terms of the 3 day framework.</span>
+                <span ct:typeLabel='Propitious moment' type='propitious-moment' target='#line-4238' >Moment of truth: light floods in.</span>
+                <span ct:typeLabel='Past' type='past' target='#line-4275' >Used to locate reflections within moment of previous narrative sequence.</span>
+                <span ct:typeLabel='Duration' type='duration' from='#line-4313' to='#line-4314' >A decisive new stage marked by this opening marker and closing marker of duration of John Canace’s life-time.</span>
+                <span ct:typeLabel='Season' type='season' target='#line-4575' >Warning that a king may destroy his subjects by avarice. The reference to seasons reinforces the temporality of worldly signifiers and riches.</span>
+                <span ct:typeLabel='Propitious moment' type='propitious-moment' target='#line-4684' >Universal lesson: he who helps the unfortunate  is blessed from birth.</span>
+                <span ct:typeLabel='Prudence' type='prudence' target='#line-4767' >Universal lesson: the omnipotence and prudence of God.</span>
+                <span ct:typeLabel='Age: youth and old age' type='age.youth-and-old-age' from='#line-4943' to='#line-4963' >An extensive commentary on the relationships between these two states, returning us to the nature of the opening dialogues in the prologue. L. 4962-4963 especially significant ... summarizes whole approach of let age rule and youth follow.</span>
+                <span ct:typeLabel='Abstract moment' type='abstract-moment' from='#line-4971' to='#line-4973' >Lessons applicable in all liturgical and secular times</span>
+                <span ct:typeLabel='Age: quantified' type='age.quantified' from='#line-5167' to='#line-5168' >Duration of Christ’s life precisely quantified.</span>
+            </spanGrp>
+        </body>
+    </text>
+</TEI>

@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import csv
 import re
 
@@ -5,6 +6,31 @@ import re
 # and function as a tei:spanGrp of type time-referents where each tei:span
 # has @type corresponding to the type column, the function is the inner
 # text, and the line numbers are encoded as part of the span
+
+# Edit this as necessary
+header = """<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+    xmlns:ct="http://hocl.tk/schema/"
+    version="5.0" >
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Time Referents in The Regiment of Princes</title>
+                <author>Smyth, Karen</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Encoded by Mark Watts</p>
+                <date when="2012" />
+            </publicationStmt>
+            <sourceDesc>
+                <p>Encoded from a tab-separated-values file, from a word document using trtotei.py</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+"""
+footer = "</body></text></TEI>"
 
 def normalize_type(typestring):
     """ Turns the types into strings with no whitespace, all lowercase
@@ -51,6 +77,7 @@ def spans_from_string(s):
     return map(lambda x: map(int, re.split("\s*-\s*", x)), re.split(r"\s*,\s*", s))
 
 def main():
+    print(header)
     print "<spanGrp type='time-referents'>"
     with open("time-refs.tsv", 'r') as f:
         reader = csv.reader(f, delimiter="\t", quotechar="\"")
@@ -61,7 +88,8 @@ def main():
             #    with a linked interp. Not sure this is the right way...
             typestring = row[1]
             lines = row[3]
-            (_, note) = remove_parentheticals(typestring)
+            (type_label, note) = remove_parentheticals(typestring)
+
             typestring = normalize_type(typestring)
             for x in spans_from_string(lines):
                 # XXX: no idea how to appropiately encode a note on the type
@@ -73,13 +101,15 @@ def main():
                     targeting = "target='%s'" % x[0]
                 else:
                     targeting ="ERROR IN TARGETING"
+
                 if len(note) > 0:
                     notestring = "<note>"+note+"</note>"
                 else:
                     notestring = ""
 
-                print "<span type='"+typestring+"' "+targeting+" >"+notestring+row[4]+"</span>"
-    print "</spanGrp>"
+                print "<span ct:typeLabel='"+type_label+"' type='"+typestring+"' "+targeting+" >"+notestring+row[4]+"</span>"
+    print("</spanGrp>")
+    print(footer)
 
 if __name__ == "__main__":
     main()
