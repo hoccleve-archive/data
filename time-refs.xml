@@ -19,8 +19,7 @@
     </teiHeader>
     <text>
         <body>
-            
-            <spanGrp type='time-referents'>
+            <spanGrp type='time-referents' corresp='reg.xml' >
                 <span ct:typeLabel='Abstract  moment' type='abstract-moment' target='#line-6' >Specific place (Chester Inn) and time creates narrative context of entering dream.</span>
                 <span ct:typeLabel='Abstract duration' type='abstract-duration' target='#line-8' >Recollection of past duration starts to merge past and present times, acting as a descriptive tool of thought processes.</span>
                 <span ct:typeLabel='Memory' type='memory' target='#line-22' >Remembers Richard II’s fall, setting political time of narrative.</span>
@@ -86,7 +85,7 @@
                 <span ct:typeLabel='Age state: childishness and Past authority' type='age-state.childishness-and-past-authority' from='#line-2052' to='#line-2053' >Hoccleve-narrator names his source (as Egidius Romanus) and invokes the modesty topos, lamenting his immaturity as a writer in contrast to his past authoritative source.</span>
                 <span ct:typeLabel='Age state: childishness and Past authority' type='age-state.childishness-and-past-authority' target='#line-2058' >Hoccleve-narrator names his source (as Egidius Romanus) and invokes the modesty topos, lamenting his immaturity as a writer in contrast to his past authoritative source.</span>
                 <span ct:typeLabel='Precise moment ' type='precise-moment' from='#line-2140' to='#line-2142' >
-                    <note>within narrative context of prince’s time</note>Hoccleve-narrator tells the prince the worst that his Regiment (the text-proper that is to follow) can do is give him something to pass his time at night. 
+                    <note>within narrative context of prince’s time</note>Hoccleve-narrator tells the prince the worst that his Regiment (the text-proper that is to follow) can do is give him something to pass his time at night.
                 </span>
                 <span ct:typeLabel='Abstract past authority' type='abstract-past-authority' target='#line-2171' >Lesson: faith must be kept by kings. It is not important who the king of the past was or when, it is that a causal link is being created between poet’s function and prince’s function.</span>
                 <span ct:typeLabel='Abstract past authority' type='abstract-past-authority' from='#line-2187' to='#line-2188' >Function of historicity highlighted again, at the end of this first section. It acts as a kind of narrative punctuation.</span>
